@@ -1,0 +1,21 @@
+{
+  "name": "collection",
+  "version": "0.1.0",
+  "description": "A light list of models",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wilsonpage/collection.git"
+  },
+  "author": "Wilson Page",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "0e71b6207b64cab7aba36c05997753fff55e5238",
+  "dependencies": {
+    "event": "git@github.com:wilsonpage/event.git",
+    "model": "git@github.com:wilsonpage/model.git"
+  }
+}
